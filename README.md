@@ -1,2 +1,2 @@
 Hello World
-Selamata datang di web pertama saya
+Selamat datang di web pertama saya
